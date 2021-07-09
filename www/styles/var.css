@@ -1,0 +1,17 @@
+/* :root {
+    --orange: #ff8f53;
+    --primary-color: var(--orange);
+    --spacing: 10px;
+    --important-number: 18;
+} */
+
+:root {
+  --violet: hsl(263, 55%, 52%);
+  --gray-blue: hsl(217, 19%, 35%);
+  --black-blue: hsl(219, 29%, 14%);
+  --white: hsl(0, 0%, 100%);
+  --light-gray: hsl(0, 0%, 81%);
+  --light-gray-blue: hsl(210, 46%, 95%);
+  --verified: hsla(0, 0%, 81%, 0.5);
+  --paragraphs: hsla(210, 46%, 95%, 0.7);
+}
